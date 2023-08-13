@@ -108,7 +108,7 @@ Delete an instance
 
 ## Installation
 
-- Clone the repository. git clone https://github.com/mecomonteshbtn/AirBnB_clone.git
+- Clone the repository.
 - Open the /AirBnB_clone directory and execute console.py
 
 ### Setup
